@@ -3,7 +3,7 @@ Please install ultralytics, cv2, numpy and pandas before opening.\
 `pip install ultralytics`\
 `pip install opencv-python`\
 `pip install numpy`\
-`pip install pandas`\
+`pip install pandas`
 
 # Problem:
 Create an inference solution that can observe a real-time camera stream and will raise an alert if more than n (for example 4) people are visible continuously for more than 2 minutes. You may mark a region to observe.
