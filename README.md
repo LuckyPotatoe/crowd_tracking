@@ -1,4 +1,4 @@
-## ***Requirements***:
+## Requirements!:
 Please install ultralytics, cv2, numpy and pandas before opening.
 `pip install ultralytics`
 `pip install opencv-python`
