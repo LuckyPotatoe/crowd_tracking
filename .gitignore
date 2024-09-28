@@ -1,0 +1,14 @@
+*.jpg
+*.jpeg
+*.mp4
+*.zip
+*.txt
+*.log
+*.yaml
+*.cache
+
+models/
+runs/
+wandb/
+
+main_legacy.ipynb
